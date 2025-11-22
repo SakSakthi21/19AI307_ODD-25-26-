@@ -40,8 +40,8 @@ To write a Java program that demonstrates how to access a static method (or stat
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: 
-RegisterNumber:  
+Developed by: P SAKTHIVEL
+RegisterNumber: 212223060238 
 */
 ```
 ```
@@ -73,5 +73,6 @@ class prog {
 
 ## RESULT:
 Thus, the Java program to access a static method using both class name and object was executed successfully.
+
 
 
