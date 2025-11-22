@@ -48,8 +48,8 @@ To write a Java program that demonstrates the concept of classes and methods by 
  ```
 /*
 Program to implement a Class and Objects using Java
-Developed by: 
-RegisterNumber:  
+Developed by: P SAKTHIVEL 
+RegisterNumber: 212223060238
 */
 ```
 ```
@@ -100,5 +100,6 @@ class prog {
 
 ## RESULT:
 Thus, the Java program demonstrating arithmetic operations using a Calculator class was executed successfully.
+
 
 
