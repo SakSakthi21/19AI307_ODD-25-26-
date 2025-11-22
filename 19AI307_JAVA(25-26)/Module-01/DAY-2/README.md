@@ -1,29 +1,26 @@
 # Ex.No:1(B) CONDITIONAL STATEMENT
 
 ## QUESTION:
-```
+
 A pirate ship has a code lock that only opens if:
 
-    The input code is even, and
-
+The input code is even, and
         If it is less than 100, say "Weak Code".
-
         If it is between 100 and 999, say "Strong Code".
-
-    If the code is odd, deny access.
+        If the code is odd, deny access.
 
 For example:
 Input 	Result
 
-42     WEAK CODE
+42      WEAK CODE
 
-```
+
 ## AIM:
 To write a Java program that reads a numeric code and checks whether it is an even or odd number.
 The program should classify the code as Weak Code or Strong Code based on its range, and deny access for invalid or odd codes.
 
 ## ALGORITHM :
-```
+
 1. Start the program.
 2. Create a Scanner object to read input from the user.
 3. Read an integer value from the user.
@@ -35,7 +32,7 @@ The program should classify the code as Weak Code or Strong Code based on its ra
 6. Close the scanner.
 7. End the program.
 
-```
+
 
 ## PROGRAM:
  ```
@@ -76,4 +73,5 @@ public class Main{
 
 ## RESULT:
 Thus, the Java program to check the pirate ship code and classify it as WEAK CODE, STRONG CODE, or ACCESS DENIED based on the given conditions was executed successfully.
+
 
