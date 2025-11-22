@@ -86,8 +86,8 @@ To write a Java program that demonstrates the concept of encapsulation  by using
  ```
 /*
 Program to implement a Access Specifiers using Java
-Developed by: 
-RegisterNumber:  
+Developed by: P SAKTHIVEL
+RegisterNumber: 212223060238
 */
 ```
 ```
@@ -166,5 +166,6 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program implementing encapsulation using getter and setter methods, and increasing smartphone storage capacity, was executed successfully.
+
 
 
