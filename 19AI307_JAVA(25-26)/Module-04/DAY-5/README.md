@@ -1,4 +1,4 @@
-<img width="860" height="427" alt="image" src="https://github.com/user-attachments/assets/cac3ceca-f740-403a-b492-73ca98f88334" /># Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
+# Ex.No:4(D) DESIGN PATTERN  ---- BEHAVIOUR PATTERN
 
 ## QUESTION:
 Design a program where a Product model stores item info, and the view displays it. Implement a controller to update product price and refresh the view automatically.
@@ -133,3 +133,4 @@ public class ProductManagementSystem {
 The program successfully displays the initial product details and updates the price.
 After updating, the controller refreshes the view and prints the new price.
 Thus, the MVC-based product management system executes correctly.
+
